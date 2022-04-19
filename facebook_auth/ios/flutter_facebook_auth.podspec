@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.dependency 'Flutter'
 
 
-  s.dependency 'FBSDKCoreKit', '~> 13.0.0'
+  s.dependency 'FBSDKCoreKit', '~> 13.1.0'
   s.dependency 'FBSDKLoginKit', '~> 13.0.0'
   s.platform = :ios, '11.0'
 
